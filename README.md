@@ -3,7 +3,7 @@ A mobile app that display and edit user CV
 ## Design Preview
 ![App preview](https://github.com/eyitayoit-alt/cvapp/blob/main/Screenshot_20230915-141220.jpg)
 ## Project Preview
-[App Preview](https://appetize.io/app/dhrblblvgb7pod3n6flwwuulia?device=pixel4&osVersion=11.0&scale=75 )
+[Click to Preview App](https://appetize.io/app/dhrblblvgb7pod3n6flwwuulia?device=pixel4&osVersion=11.0&scale=75 )
 ## Plugin
 Expo
 ## Setup
